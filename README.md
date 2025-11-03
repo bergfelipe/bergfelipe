@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Olá, eu sou Felipe Bernardo
 
-<!--
-**bergfelipe/bergfelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Full Stack Web Developer**  
+🚀 Apaixonado por criar soluções modernas com **Ruby on Rails**, **WordPress/WooCommerce** e **Java**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧩 Principais Projetos
+
+🎬 **[Movies Felipet](https://movies-felipet.onrender.com)**  
+> Desafio Técnico Maiñó — Catálogo de filmes com autenticação, comentários, categorias e upload de pôsteres.  
+Stack: Ruby on Rails 7, PostgreSQL, Bootstrap 5, Amazon S3, Render.
+
+🛠️ **[Ronsy Online](https://ronsyonline.com.br)**  
+> Loja de ferramentas desenvolvida em **WooCommerce + Elementor**, com foco em performance e experiência de compra.  
+Inclui: personalização visual, cálculo de frete dinâmico e integração com métodos de pagamento brasileiros.
+
+👕 **[Maile Moda Fitness](https://mailemodafitness.com.br)**  
+> Loja fitness criada em **WooCommerce + Elementor**, com design otimizado para dispositivos móveis e gestão completa de pedidos.
+
+🍻 **[Informal Pub](https://informalpub.com)**  
+> Site institucional de um pub renomado, com cardápio dinâmico, galeria de eventos e integração com redes sociais.
+
+🌎 **[Portfólio Pessoal](https://bergfelipe.github.io)**  
+> Página com projetos, contatos e experiências — construída em HTML, CSS e JavaScript.
+
+---
+
+## 🧠 Sobre mim
+- 💡 Sempre buscando aprender e evoluir em novas stacks.  
+- 🏗️ Experiência com sistemas fiscais (NFE/NFA-e) e integrações Oracle.  
+- 🌍 Local: **Porto Velho, RO – Brasil**
+
+---
+
+## 📫 Contato
+📧 **felipe.bosso.dev@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/felipebosso)  
+🐙 [GitHub](https://github.com/bergfelipe)
+
+---
+
+⭐ *"Transformando ideias em código e desafios em soluções."*
