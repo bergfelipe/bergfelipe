@@ -8,8 +8,8 @@
 ## 🧩 Principais Projetos
 
 🎬 **[Movies Felipet](https://movies-felipet.onrender.com)**  
-> Desafio Técnico Maiñó — Catálogo de filmes com autenticação, comentários, categorias e upload de pôsteres.  
-Stack: Ruby on Rails 7, PostgreSQL, Bootstrap 5, Amazon S3, Render.
+> Projeto Ruby on Rails — Catálogo de filmes com autenticação, comentários, categorias e upload de pôsteres.  
+Stack: Ruby on Rails 7, PostgreSQL, Bootstrap 5, Amazon S3, Render, IA Treinada.
 
 🛠️ **[Ronsy Online](https://ronsyonline.com.br)**  
 > Loja de ferramentas desenvolvida em **WooCommerce + Elementor**, com foco em performance e experiência de compra.  
