@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou Felipe Bernardo
 
 💻 **Full Stack Web Developer**  
-🚀 Apaixonado por criar soluções modernas com **Ruby on Rails**, **WordPress/WooCommerce** e **Java**.
+🚀 Gosto de criar soluções modernas com **Ruby on Rails**, **WordPress/WooCommerce**, **PHP/Lavarel** e **Java**.
 
 ---
 
@@ -27,17 +27,17 @@ Inclui: personalização visual, cálculo de frete dinâmico e integração com 
 ---
 
 ## 🧠 Sobre mim
-- 💡 Sempre buscando aprender e evoluir em novas stacks.  
-- 🏗️ Experiência com sistemas fiscais (NFE/NFA-e) e integrações Oracle.  
+- 🏗️ Experiência sólida com sistemas fiscais eletrônicos (NFE, NFA-e, CT-e), atuando no desenvolvimento, manutenção e integração de serviços SOAP e REST voltados à emissão, consulta, cancelamento e manifestação de notas fiscais eletrônicas.
+- 🧩 Integração com webservices estaduais (SVRS, SEFAZ, SEFIN/RO) utilizando certificados digitais (.pfx/.pem) e autenticação SSO.
+- 🔐 Experiência com assinatura digital XML (xmldsig), schemas fiscais (XSDs NFe/NFA-e) e tratamento de eventos.
+- ⚙️ Desenvolvimento de APIs Ruby on Rails e Java Servlet (JSP), com Sidekiq + Redis para processamento assíncrono.  
 - 🌍 Local: **Porto Velho, RO – Brasil**
 
 ---
 
 ## 📫 Contato
-📧 **felipe.bosso.dev@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/felipebosso)  
+📧 **felipe4bfonseca@gmail.com**  
+💼 [LinkedIn](https://www.linkedin.com/in/felipe-bernardo-fonseca/)  
 🐙 [GitHub](https://github.com/bergfelipe)
 
 ---
-
-⭐ *"Transformando ideias em código e desafios em soluções."*
