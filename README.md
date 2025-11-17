@@ -11,6 +11,14 @@
 > Projeto Ruby on Rails — Catálogo de filmes com autenticação, comentários, categorias e upload de pôsteres.  
 Stack: Ruby on Rails 7, PostgreSQL, Bootstrap 5, Amazon S3, Render, IA Treinada.
 
+🧾 **[API NF-e Felipet](https://api-nfe-felipet.onrender.com)**
+> API desenvolvida para emissão de Nota Fiscal Eletrônica (NF-e), seguindo a documentação oficial da SEFAZ. Criada para portfólio e pronta para integração com sistemas externos.
+Stack: Ruby on Rails 7 (API mode), PostgreSQL, JWT Auth, Assinatura XML, Comunicação SOAP com SEFAZ, Render.
+
+💼 **[Sistema NF Felipet](https://nf-felipet.onrender.com)**
+> Sistema Ruby on Rails que consome a API de NF-e, com painel administrativo, autenticação Devise, formulários completos e fluxo de emissão. Desenvolvido como projeto de portfólio.
+Stack: Ruby on Rails 7, PostgreSQL, Devise, Bootstrap 5, Render.
+
 🛠️ **[Ronsy Online](https://ronsyonline.com.br)**  
 > Loja de ferramentas desenvolvida em **WooCommerce + Elementor**, com foco em performance e experiência de compra.  
 Inclui: personalização visual, cálculo de frete dinâmico e integração com métodos de pagamento brasileiros.
