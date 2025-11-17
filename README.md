@@ -8,8 +8,8 @@
 ## 🧩 Principais Projetos
 
 🎬 **[Movies Felipet](https://movies-felipet.onrender.com)**  
-> Projeto Ruby on Rails — Catálogo de filmes com autenticação, comentários, categorias e upload de pôsteres.  
-Stack: Ruby on Rails 7, PostgreSQL, Bootstrap 5, Amazon S3, Render, IA Treinada.
+> Projeto Ruby on Rails com **integração à IA (ChatGPT-4)** — Catálogo de filmes com autenticação, comentários, categorias e upload de pôsteres.  
+Stack: Ruby on Rails 7, PostgreSQL, Bootstrap 5, Amazon S3, Render, **IA Treinada para automação e assistência inteligente.**.
 
 🧾 **[API NF-e Felipet](https://api-nfe-felipet.onrender.com)**
 > API desenvolvida para emissão de Nota Fiscal Eletrônica (NF-e), seguindo a documentação oficial da SEFAZ. Criada para portfólio e pronta para integração com sistemas externos.
