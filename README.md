@@ -36,8 +36,6 @@ Inclui: personalização visual, cálculo de frete dinâmico e integração com 
 
 ## 🧠 Sobre mim
 - 🏗️ Experiência sólida com sistemas fiscais eletrônicos (NFE, NFA-e, CT-e), atuando no desenvolvimento, manutenção e integração de serviços SOAP e REST voltados à emissão, consulta, cancelamento e manifestação de notas fiscais eletrônicas.
-- 🧩 Integração com webservices estaduais (SVRS, SEFAZ, SEFIN/RO) utilizando certificados digitais (.pfx/.pem) e autenticação SSO.
-- 🔐 Experiência com assinatura digital XML (xmldsig), schemas fiscais (XSDs NFe/NFA-e) e tratamento de eventos.
 - ⚙️ Desenvolvimento de APIs Ruby on Rails e Java Servlet (JSP), com Sidekiq + Redis para processamento assíncrono.  
 - 🌍 Local: **Porto Velho, RO – Brasil**
 
