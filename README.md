@@ -12,6 +12,7 @@
 Stack: Ruby on Rails 7, PostgreSQL, Bootstrap 5, Amazon S3, Render, **IA Treinada para automação e assistência inteligente.**.
 
 🧾 **[API NF-e Felipet](https://api-nfe-felipet.onrender.com)**
+Repositorio: https://github.com/bergfelipe/api_nfe_felipet
 > API desenvolvida para emissão de Nota Fiscal Eletrônica (NF-e), seguindo a documentação oficial da SEFAZ. Criada para portfólio e pronta para integração com sistemas externos.
 Stack: Ruby on Rails 7 (API mode), PostgreSQL, JWT Auth, Assinatura XML, Comunicação SOAP com SEFAZ, Render.
 
