@@ -1,11 +1,11 @@
 # 👋 Olá, eu sou Felipe Bernardo
 
-💻 **Full Stack Web Developer**  
-🚀 Gosto de criar soluções modernas com **Ruby on Rails**, **WordPress/WooCommerce**, **PHP/Lavarel** e **Java**.
+**Full Stack Web Developer**  
+Gosto de criar soluções modernas com **Ruby on Rails**, **WordPress/WooCommerce**, **PHP/Lavarel** e **Java**.
 
 ---
 
-## 🧩 Principais Projetos
+## Principais Projetos
 
 🎬 **[Movies Felipet](https://movies-felipet.onrender.com)**  
 > Projeto Ruby on Rails com **integração à IA (ChatGPT-4)** — Catálogo de filmes com autenticação, comentários, categorias e upload de pôsteres.  
@@ -34,14 +34,14 @@ Inclui: personalização visual, cálculo de frete dinâmico e integração com 
 
 ---
 
-## 🧠 Sobre mim
-- 🏗️ Experiência sólida com sistemas fiscais eletrônicos (NFE, NFA-e, CT-e), atuando no desenvolvimento, manutenção e integração de serviços SOAP e REST voltados à emissão, consulta, cancelamento e manifestação de notas fiscais eletrônicas.
-- ⚙️ Desenvolvimento de APIs Ruby on Rails e Java Servlet (JSP), com Sidekiq + Redis para processamento assíncrono.  
-- 🌍 Local: **Porto Velho, RO – Brasil**
+## Sobre mim
+- Experiência sólida com sistemas fiscais eletrônicos (NFE, NFA-e, CT-e), atuando no desenvolvimento, manutenção e integração de serviços SOAP e REST voltados à emissão, consulta, cancelamento e manifestação de notas fiscais eletrônicas.
+- Desenvolvimento de APIs Ruby on Rails e Java Servlet (JSP), com Sidekiq + Redis para processamento assíncrono.  
+- Local: **Porto Velho, RO – Brasil**
 
 ---
 
-## 📫 Contato
+## Contato
 📧 **felipe4bfonseca@gmail.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/felipe-bernardo-fonseca/)  
 🐙 [GitHub](https://github.com/bergfelipe)
