@@ -19,16 +19,6 @@ Stack: Ruby on Rails 7 (API mode), PostgreSQL, JWT Auth, Assinatura XML, Comunic
 > Sistema Ruby on Rails que consome a API de NF-e, com painel administrativo, autenticação Devise, formulários completos e fluxo de emissão. Desenvolvido como projeto de portfólio.
 Stack: Ruby on Rails 7, PostgreSQL, Devise, Bootstrap 5, Render.
 
-🛠️ **[Ronsy Online](https://ronsyonline.com.br)**  
-> Loja de ferramentas desenvolvida em **WooCommerce + Elementor**, com foco em performance e experiência de compra.  
-Inclui: personalização visual, cálculo de frete dinâmico e integração com métodos de pagamento brasileiros.
-
-👕 **[Maile Moda Fitness](https://mailemodafitness.com.br)**  
-> Loja fitness criada em **WooCommerce + Elementor**, com design otimizado para dispositivos móveis e gestão completa de pedidos.
-
-🍻 **[Informal Pub](https://informalpub.com)**  
-> Site institucional de um pub renomado, com cardápio dinâmico, galeria de eventos e integração com redes sociais.
-
 🌎 **[Portfólio Pessoal](https://bergfelipe.github.io)**  
 > Página com projetos, contatos e experiências — construída em HTML, CSS e JavaScript.
 
