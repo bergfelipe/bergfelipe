@@ -11,6 +11,10 @@ Gosto de criar soluções modernas com **Ruby on Rails**, **WordPress/WooCommerc
 > Projeto Ruby on Rails com **integração à IA (ChatGPT-4)** — Catálogo de filmes com autenticação, comentários, categorias e upload de pôsteres.  
 Stack: Ruby on Rails 7, PostgreSQL, Bootstrap 5, Amazon S3, Render, **IA Treinada para automação e assistência inteligente.**.
 
+📧 **[Rails EML Processor](https://github.com/bergfelipe/rails-eml-processor)**
+> Aplicação desenvolvida em Ruby on Rails para processamento automatizado de arquivos `.eml`, com extração de dados de clientes por meio de parsers extensíveis, processamento assíncrono e logs de execução. Conta com testes automatizados com RSpec disponíveis no GitHub e ambiente containerizado.
+Stack: Ruby on Rails, PostgreSQL, Sidekiq, Redis, RSpec, Docker, Bootstrap, GitHub Actions.
+
 🧾 **[API NF-e Felipet](https://github.com/bergfelipe/api_nfe_felipet)**
 > API desenvolvida para emissão de Nota Fiscal Eletrônica (NF-e), seguindo a documentação oficial da SEFAZ. Criada para portfólio e pronta para integração com sistemas externos.
 Stack: Ruby on Rails 7 (API mode), PostgreSQL, JWT Auth, Assinatura XML, Comunicação SOAP com SEFAZ, Render.
